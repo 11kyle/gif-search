@@ -108,6 +108,7 @@ button {
 
 .gif-wrap img {
   min-width: 100%;
+  max-width: 200px;
 }
 
 /* ================================= 
